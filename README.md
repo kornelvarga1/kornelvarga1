@@ -14,6 +14,7 @@ Everything here runs **VargaFlow**, a marketing and automation system for home s
 
 | Repo | What it is | Commits |
 |---|---|---|
+| [ai-voice-receptionist](https://github.com/kornelvarga1/ai-voice-receptionist) | AI phone receptionists on Retell + Twilio: one prompt template and a config per business, emergency triage with a safety carve-out, real Google Calendar booking. [Call a demo line](https://kornelvarga.com#demos) | clean public copy |
 | [vargaflow-admin](https://github.com/kornelvarga1/vargaflow-admin) | The CRM and automation engine: pipeline, SMS/email sequences from a cron-driven queue, two-way inbox with an AI text agent, browser calling, self-built booking on Google Calendar | 291 |
 | [vargaflow-client](https://github.com/kornelvarga1/vargaflow-client) | The multi-tenant app contractors use: their customers, messaging, browser calling, review requests, referral follow-ups, missed-call text-back | 232 |
 | [vargaflow-website](https://github.com/kornelvarga1/vargaflow-website) | The lead-gen site, prerendered for search, with forms that feed straight into the CRM's automations | 257 |
@@ -27,8 +28,6 @@ Counted from the production database, March to September 2026:
 - **~6,000 contacts** in the pipeline
 - **600+ messages held back** by quiet-hours rules and **280+ numbers** suppressed on the do-not-contact list, enforced at send time
 - **57 edge functions** handling webhooks from Twilio, Retell and Google, scheduled jobs and the message queue
-
-The AI phone receptionists (Retell AI + ElevenLabs + Twilio, booking straight into Google Calendar) live in a private repo. You can call the live demo lines from [kornelvarga.com](https://kornelvarga.com#demos).
 
 ## Stack
 
