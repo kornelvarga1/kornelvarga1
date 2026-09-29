@@ -10,7 +10,7 @@ Hungarian, based in the Netherlands. Open to remote roles across the EU, or on s
 
 ## What these repos are
 
-Everything here runs **VargaFlow**, a marketing and automation system for home service contractors (plumbers, roofers, HVAC). I built it and I run it alone, around a full-time job. It isn't a demo, real messages go out through it every day.
+Everything here runs **VargaFlow**, a marketing and automation system for home service contractors (plumbers, roofers, HVAC). I built it and I run it alone, around a full-time job. It isn't a demo: over 11,000 real messages have gone out through it.
 
 | Repo | What it is | Commits |
 |---|---|---|
