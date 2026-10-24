@@ -35,4 +35,4 @@ Counted from the production database, March to September 2026:
 
 ## How I work
 
-I wrote my first line of code in March 2026 and I build with AI coding tools, heavily and on purpose. That's how one person shipped all of this in six months. What I bring is the judgement: what to build, which trade-off to take, when something is wrong, and getting it live in front of real users. The commit history is public, including the fixes. I'm happy to walk through any of it.
+I build with AI coding tools, heavily and on purpose. That's how one person ships all of this. What I bring is the judgement: what to build, which trade-off to take, when something is wrong, and getting it live in front of real users. The commit history is public, including the fixes. I'm happy to walk through any of it.
