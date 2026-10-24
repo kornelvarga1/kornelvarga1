@@ -2,7 +2,7 @@
 
 **AI Automation Engineer.** I build voice agents, CRMs and the automations between them, and I ship them to production myself.
 
-Hungarian, based in the Netherlands. Open to remote roles across the EU, or on site in Budapest.
+Hungarian, based in Győr and relocating to Budapest. Open to on-site or hybrid roles in Budapest, or remote across the EU.
 
 **[kornelvarga.com](https://kornelvarga.com)** · [LinkedIn](https://www.linkedin.com/in/kornel-varga-430005227/) · [varga.kornel03@gmail.com](mailto:varga.kornel03@gmail.com)
 
